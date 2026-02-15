@@ -1,89 +1,89 @@
-# Knights of Honor II: Sovereign – Bulgarian Language Mod
+# Knights of Honor II: Sovereign – Мод за Български Език
 
-A fan-made Bulgarian language translation mod for Knights of Honor II: Sovereign.
+Фен-направен мод за превод на български език за Knights of Honor II: Sovereign.
 
-This project adds full Bulgarian language support to the game using the official modding system. The goal is to make the game more accessible to Bulgarian-speaking players while preserving the medieval atmosphere and strategic depth of the original experience.
-
----
-
-## Features
-
-- Adds Bulgarian as a selectable in-game language
-- Translated user interface (UI)
-- Translated menus and tooltips
-- Localized events and descriptions
-- Text-only mod (does not affect gameplay balance)
-- Multiplayer safe (text-only mods do not modify game mechanics)
+Този проект добавя пълна поддръжка на български език към играта, използвайки официалната система за модове. Целта е играта да стане по-достъпна за българоговорящите играчи, като същевременно се запази средновековната атмосфера и стратегическата дълбочина на оригиналното преживяване.
 
 ---
 
-## Installation
+## Характеристики
 
-1. Navigate to:
-
-   C:\Users\<your-user>\AppData\LocalLow\BlackSeaGames\Sovereign\Mods
-
-2. If the "Mods" folder does not exist, create it.
-
-3. Create a new folder inside "Mods" called:
-
-   BulgarianLanguageMod
-
-4. Copy all mod files into that folder.
-
-5. Launch the game.
-
-6. Go to Settings → Mods and enable the mod.
-
-7. Go to Language Settings and select Bulgarian.
+- Добавя български език като избираем език в играта
+- Преведен потребителски интерфейс (UI)
+- Преведени менюта и подсказки
+- Локализирани събития и описания
+- Само текстов мод (не влияе на баланса на играта)
+- Безопасен за мултиплейър (текстовите модове не променят механиката на играта)
 
 ---
 
-## Technical Information
+## Инсталация
 
-This mod follows the official modding framework provided by the developers.
+1. Отидете до:
 
-- Uses `Texts/languages.def` to register Bulgarian as a new language
-- Uses `Texts/languages.csv` for translated text keys
-- Includes `Texts/bg/` for language-specific translations
-- Contains only delta changes (no original game files are redistributed)
+   `C:\Users\<вашият-потребител>\AppData\LocalLow\BlackSeaGames\Sovereign\Mods`
 
-The mod does NOT modify original installation files.
+2. Ако папката "Mods" не съществува, създайте я.
 
----
+3. Създайте нова папка в "Mods" с име:
 
-## Disclaimer
+   `BulgarianLanguageMod`
 
-This is an unofficial fan-made modification for Knights of Honor II: Sovereign.
+4. Копирайте всички файлове на мода в тази папка.
 
-All rights to the original game belong to its developers and publisher.
+5. Стартирайте играта.
 
-This project is not affiliated with, endorsed by, or associated with the official developers or publisher.
+6. Отидете в Настройки → Модове (Settings → Mods) и активирайте мода.
 
-You must own a legal copy of the game to use this mod.
+7. Отидете в Езикови настройки и изберете Български.
 
 ---
 
-## Support the Project
+## Техническа Информация
 
-This mod is developed in my free time.
+Този мод следва официалната рамка за модифициране, предоставена от разработчиците.
 
-If you enjoy this project and would like to support its continued development, you can make a voluntary donation via PayPal.
+- Използва `Texts/languages.def` за регистриране на българския като нов език
+- Използва `Texts/languages.csv` за преведените текстови ключове
+- Включва `Texts/bg/` за специфични езикови преводи
+- Съдържа само делта промени (не се разпространяват оригинални файлове от играта)
 
-Donations are completely optional and do not provide any additional content or in-game benefits.
-
----
-
-## Feedback & Contributions
-
-Feedback, suggestions, and translation corrections are welcome.
-
-If you find any errors or inconsistencies, please open an issue on GitHub.
+Модът НЕ променя оригиналните инсталационни файлове.
 
 ---
 
-## License
+## Отказ от отговорност
 
-This project distributes only original translation work and mod configuration files.
+Това е неофициална фен-направена модификация за Knights of Honor II: Sovereign.
 
-No original game assets or copyrighted materials are included.
+Всички права върху оригиналната игра принадлежат на нейните разработчици и издател.
+
+Този проект не е свързан с, одобрен от или асоцииран с официалните разработчици или издател.
+
+Трябва да притежавате легално копие на играта, за да използвате този мод.
+
+---
+
+## Подкрепете проекта
+
+Този мод се разработва в свободното ми време.
+
+Ако харесвате този проект и искате да подкрепите бъдещото му развитие, можете да направите доброволно дарение чрез PayPal.
+
+Даренията са напълно незадължителни и не осигуряват допълнително съдържание или предимства в играта.
+
+---
+
+## Обратна връзка и принос
+
+Обратна връзка, предложения и корекции на превода са добре дошли.
+
+Ако намерите грешки или несъответствия, моля, отворете проблем (issue) в GitHub.
+
+---
+
+## Лиценз
+
+Този проект разпространява само авторски преводи и конфигурационни файлове на мода.
+
+Не са включени оригинални активи от играта или материали с авторски права.
