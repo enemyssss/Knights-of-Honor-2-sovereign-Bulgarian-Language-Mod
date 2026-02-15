@@ -64,16 +64,6 @@ You must own a legal copy of the game to use this mod.
 
 ---
 
-## Support the Project
-
-This mod is developed in my free time.
-
-If you enjoy this project and would like to support its continued development, you can make a voluntary donation via PayPal.
-
-Donations are completely optional and do not provide any additional content or in-game benefits.
-
----
-
 ## Feedback & Contributions
 
 Feedback, suggestions, and translation corrections are welcome.
