@@ -1,0 +1,25 @@
+#article MilitiaUnits
+#category unit_category
+#caption Milizeinheiten
+#keywords Bauerneinheit, Bauerneinheiten, Milizeinheiten, Milizeneinheit
+Bauern und Milizen sind die schwächsten Einheiten im Spiel und können von jedem Königreich rekrutiert werden. Ihr größter Vorteil ist ihre Verfügbarkeit: Die Rekrutierung von Bauerntrupps ist am günstigsten und erfordert keine Einberufungen des Königreichs und (fast) kein Gold. Sie sind außerdem die einzigen Einheiten, für deren Rekrutierung keine {Barracks.name} gebaut werden muss.
+{p}Obwohl ihr Angriff, ihre Verteidigung und ihr Belagerungsangriff niedrig sind, ist ihre geringe Widerstandskraft wahrscheinlich ihre größte Schwäche. In Kombination mit einer niedrigen Armeemoral ergeben sich diese Einheiten sehr leicht. Sie haben jedoch die höchste Basis-Truppenstärke und können sich manchmal aufgrund ihrer zahlenmäßigen Überlegenheit gegen andere Einheiten durchsetzen, wenn ihre Moral hoch genug ist.
+{p}Für die meisten Spielboni werden Bauern- und Milizeinheiten nicht als Infanterie angesehen. Sie sind außerdem die einzigen Einheiten, die in Schlachten keine Erfahrung erhalten und deren Rang sich nie erhöht.
+{p}Milizeinheiten sind eine verbesserte Variante von Bauerneinheiten, deren Rekrutierung den Bau einer {VillageMilitia.name} erfordert.
+
+
+#article Mercenaries
+#category military_category
+#caption Söldner
+#keywords Söldner, Söldnerlager
+Söldner tauchen gelegentlich auf und schlagen meist ein Lager auf, in dem sie darauf warten, angeheuert zu werden. Sie können angeheuert werden, indem ein Armeeführer zu ihnen gebracht wird, um die Bedingungen zu verhandeln und potenziell separate Trupps anzuheuern. Sofern sie nicht angeheuert werden, sind die Söldner keiner Fraktion im Spiel gegenüber feindlich gesinnt und können nicht angegriffen werden.
+{p}Einzelne Söldnertrupps können für Gold angeheuert werden. Sie sind deutlich teurer als gleichwertige Truppen, die man in einer Stadt rekrutieren würde, jedoch erfordert das Anheuern keine Einberufungen, keine Nahrungsmittel und keine Bevölkerung und es sind auch keine Voraussetzungen wie Gebäude und Verbesserungen zu erfüllen. Nach dem Anheuern verhalten sich Söldnertrupps genau wie Trupps, die in Städten rekrutiert wurden, und bleiben bis zu ihrem Tod oder ihrer Entlassung Teil der Armee des Königreichs, das sie angeheuert hat. Das Anheuern von Trupps aus Söldnern, die erschienen sind, weil die Armee eines Königreichs ihren Anführer verloren hat, ist deutlich günstiger.
+{p}Söldner können auch als Armee angeheuert werden. In diesem Fall erfordern sie Gold als Ausgangspreis und für den Unterhalt und können nicht direkt als normale Armee kontrolliert werden, die von den Rittern eines Königreichs angeführt wird. Sie können entweder zur Unterstützung in Kriegen oder zur Bekämpfung von Rebellen angeheuert werden. Dabei kämpfen sie, bis alle Kriege beendet oder alle Rebellionen niedergeschlagen sind, wodurch ihr Vertrag automatisch aufgehoben wird. Sie können auch jederzeit entlassen werden oder sich weigern, weitere Befehle auszuführen, wenn das Königreich, das sie angeheuert hat, den Unterhalt nicht mehr zahlen kann.
+//{p}Kingdom armies left without a leader for any reason — exile, death, a return to court, a crusade — also become camps. These camps remain loyal to their kingdom — though single squads can be hired by other kingdoms, they are free to their own kingdom.
+// and no one can hire the leaderless mercenaries as an army.
+//{p}Sometimes merchants also have the opportunity of hiring mercenaries from foreign lands as an army without needing their own kingdom's army to reach the mercenary camp.
+{p}Einige Traditionen reduzieren den Preis für das Anheuern von Söldnern und auch die Meinung der Armee wirkt sich auf die Kosten für das Anheuern von Trupps und der gesamten Armee aus.
+
+//------------------------------------------------------------------------------------------//
+
+

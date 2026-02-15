@@ -1,0 +1,158 @@
+#article TOC
+#TOC TOC_Description
+#keywords Кралска библиотека
+#caption Кралска библиотека
+
+{wiki.WhatIs}
+{tab}{blt_wiki_14}  {wiki.World}
+{tab}{blt_wiki_14}  {wiki.Knights}
+{tab}{blt_wiki_14}  {wiki.TownsAndProvinces}
+{tab}{blt_wiki_14}  {wiki.Kingdoms}
+{tab}{blt_wiki_14}  {wiki.Diplomacy}
+{tab}{blt_wiki_14}  {wiki.Warfare}
+{tab}{blt_wiki_14}  {wiki.TacticalBattles}
+
+{p}{wiki.HowTo}
+
+{p}Референции:
+{tab}{blt_wiki_14}  {wiki.BuildingsReference}
+{tab}{blt_wiki_14}  {wiki.ResourcesReference}
+{tab}{blt_wiki_14}  {wiki.ProvinceFeaturesReference}
+{tab}{blt_wiki_14}  {wiki.SettlementsReference}
+{tab}{blt_wiki_14}  {wiki.AdvantagesReference}
+{tab}{blt_wiki_14}  {wiki.UnitsReference}
+{tab}{blt_wiki_14}  {wiki.OpinionsReference}
+{tab}{blt_wiki_14}  {wiki.SkillsReference}
+{tab}{blt_wiki_14}  {wiki.TraditionsReference}
+
+
+#article TOC_Description
+#caption Добре дошли
+Добре дошли в "Knights of Honor II: Sovereign"!
+{p}Тук в кралската библиотека ще се опитаме да ви помогнем да разберете повече за света, механиките и компонентите на нашата игра.
+{p}Можете да навигирате към основните секции на тази библиотека с бутоните от лявата страна на този панел. Бутоните в долната част на панела ще ви помогнат да се връщате назад и напред, както и да виждате историята на всички прочетени статии. Можете също да натиснете бутона "backspace", за да се върнете назад.
+{p}Всички маркирани ключови думи са връзки към статии в библиотеката и ако ключова дума препраща към повече от една статия, ще видите списък с всички свързани статии, от които да избирате.
+
+
+#article History
+#TOC
+#caption История
+История:
+#rows based_on=WikiTOCRow populate="PopulateHistory"
+{tab}{instance.link}
+
+
+#article Keyword
+#TOC
+#caption {q}{context_str:#}{q}
+{q}{noparse}{context_str:#}{/noparse}{q}:
+#rows based_on=WikiTOCRow populate="PopulateKeyword" keyword=(context_str)
+{tab}{instance.def_field}
+
+
+#article WhatIs
+#TOC
+#caption Научете за...
+#keywords Научете за
+Научете за:
+#rows based_on=WikiTOCRow populate="PopulateCategory" category="what_is"
+	{tab}{blt_wiki_14}  {instance.link_open}{instance.link_text}{instance.link_close}
+
+
+#article WhatIs_Description
+#caption Научете за...
+В тази секция можете да намерите информация за функциите на играта, нейните компоненти и как работят.
+{p}Ако търсите помощ за това как да постигнете нещо или да преодолеете препятствие, можете да посетите секцията {wiki.HowTo}.
+{p}За какво искате да научите?
+
+
+#article BuildingsReference
+#TOC BuildingsUpgrades
+#caption Сгради
+// #rows based_on=WikiTOCRow padding.top=5 populate="PopulateDefs" type="Building" validate=(!instance.is_upgrade) alignment="center"
+// 	#image size=40,32 asset=(instance.icon) //based_on=square_icon frame=null//frame_color="white"
+// 	{instance}
+#rows based_on=WikiTOCRow populate="PopulateDefs" type="District" validate=(instance.buildable && !instance.is_common_or_pf) alignment="center"
+	#table
+		{instance.name}
+		#separator padding.bottom = 10 color = "103,90,62, 128"
+		#rows based_on=WikiIconTOCRow populate=(instance.buildings)
+			//#space width=5
+			#image size=68,51 asset=(instance.def.icon) based_on=rect_icon 
+			{instance.def}
+	#/table
+#row
+Занаяти и Индустрии
+#separator padding.bottom = 5
+#rows based_on=WikiIconTOCRow populate=(CommonDistrict.DEF.buildings)
+	//#space width=0
+	#image size=74,47 asset=(instance.def.icon) based_on=rect_icon 
+	{instance.def}
+#rows based_on=WikiIconTOCRow populate=(PFDistrict.DEF.buildings)
+	//#space width=0
+	#image size=74,47 asset=(instance.def.icon) based_on=rect_icon 
+	{instance.def}
+
+
+#article ResourcesReference
+#TOC Resources
+#caption Стоки
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="Resource"
+	#image size=47,47 asset=(instance.icon) based_on=square_icon
+	{instance}
+
+
+#article ProvinceFeaturesReference
+#TOC ProvinceFeatures
+#caption Характеристики на провинция
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="ProvinceFeature"
+	#image size=47,47 asset=(instance.icon) based_on=square_icon
+	{instance}
+
+
+#article SettlementsReference
+#TOC Settlements
+#caption Видове селища
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="Settlement" hide_unnamed=true
+	#image size=74,47 asset=(instance.icon) based_on=rect_icon
+	{instance}
+
+
+#article AdvantagesReference
+#TOC
+#caption Предимства на кралството
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="KingdomAdvantage"
+	#image size=74,47 asset=(advantage.illustration) based_on=rect_icon
+	{instance}
+
+
+#article UnitsReference
+#TOC Units_Description
+#caption Единици
+#rows based_on=WikiIconTOCRow  populate="PopulateDefs" type="Unit" hide_unnamed=true
+	#image size=47,47 asset=(instance.icon) based_on=square_icon //frame_color="white"
+	{instance}
+
+
+#article OpinionsReference
+#TOC Opinions
+#caption Мнения
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="Opinion"
+	#image size=25,27 asset=(instance.icon) based_on=square_icon
+	{instance}
+
+
+#article SkillsReference
+#TOC Skills
+#caption Умения
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="Skill"
+	#image size=47,47 asset=(instance.icon[0]) based_on=circle_icon
+	{instance}
+
+
+#article TraditionsReference
+#TOC KingdomTraditions
+#caption Традиции
+#rows based_on=WikiIconTOCRow populate="PopulateDefs" type="Tradition"
+	#image size=47,47 asset=(instance.icon[0]) based_on=square_icon
+	{instance}

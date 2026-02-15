@@ -1,0 +1,62 @@
+#article SimpleArticle
+//#keywords text, attack, Crown Authority // ',' cannot be part of a keyword, but ' ' can
+//#keywords Empty, article // multiple #keywords are allowed
+//#keywords King, Prince, Patriarch, Ecumenical Patriarch, Pope
+//#keywords governing, governor, governed
+#keywords Пакт, Пактове, Отбранителен пакт, Нападателен пакт
+//#keywords Diplomat, Marshal, Cleric, Spy, Merchant, Merchants, Trade
+//#keywords Province, Provinces, Kingdom
+//#keywords wiki article, article
+//#category how_to //: do this
+//#category what_is: this
+#caption "Проста" статия
+Това е {XXX:link}най-простата{/link} уики статия - само заглавие и текст. // a comment
+//another comment
+Позволени са няколко реда.
+Завършването на ред с '\' \
+	продължава на следващия ред без прекъсване.
+Маркирането като {b}удебелен{/b} и {i}курсив{/i} работи.
+"Кавичките" работят като обикновен текст.
+
+Празните редове в текста се игнорират, но могат да бъдат направени:
+{p}\
+Връзките могат да бъдат прости като {plr_kingdom.king}, {Barrels} или {wiki.HypertextArticle} или сложни, като:
+{tab}{Barrels:link}връзка към {Barrels} {wiki.ResourcesReference:link}ресурс{/link}{/link}.
+{tab}{wiki.HypertextArticle:link}връзка към друга уики статия{/link}.
+'#' в началото на реда не може да се използва (освен ако не е екраниран по някакъв начин)
+
+////#bug this is a bug
+
+
+#article HypertextArticle
+//#category how_to: do that
+//#category what_is: that
+//#keywords link, text, attack, Crown Authority, authority, article
+//#keywords wiki article, article
+//#keywords barrels
+#keywords Хипертекст
+#caption Хипертекстова статия ({plr_kingdom})
+Някакъв текст
+
+#row
+	#table
+		#row alignment="center" spacing=20
+		#image based_on=circle_icon size=64,64 frame_color="white" asset=Barracks.icon //"Assets/UI/Elements/Actions/Icon_CharacterAction_NegotiatePeace.tga:Icon_CharacterAction_NegotiatePeace#2" // filling in the asset path may be inconvenient
+		//#space width=20
+		#text style="subcaption"
+		Това заглавие ще се появи отдясно на изображението
+		//#space width=20
+		#table // this is a nested table
+			Този текст ще се появи отдясно на заглавието
+			#row
+			Този текст ще се появи под предишния текст
+		#/table
+	#/table
+#row	
+	Този текст ще се появи под изображението
+	#text
+	Този текст ще се появи отдясно на предишния текст
+#row
+	Този текст ще се появи под предишните 2 текста
+#separator
+Това е текст в долния колонтитул

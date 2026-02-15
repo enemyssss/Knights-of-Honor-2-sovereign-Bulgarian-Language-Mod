@@ -1,0 +1,4 @@
+*;base;
+Title.corruptedData.caption;Грешка;
+Title.corruptedData.corruptedData;Играта не можа да зареди напълно поради повредени данни във файла.;
+Title.corruptedData.confirm;ОК;

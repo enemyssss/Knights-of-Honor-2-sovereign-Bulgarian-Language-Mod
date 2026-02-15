@@ -1,0 +1,7 @@
+Language.bg = "Български"
+{
+    enabled = true
+    voiced = false
+    voice_enabled = false
+    complete = true
+}

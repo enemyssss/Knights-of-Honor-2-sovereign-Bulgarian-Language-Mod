@@ -1,0 +1,10 @@
+﻿*;base;gen;genour
+NobilityOpinion.name;Аристокрация;на Аристокрацията;на нашата Аристокрация
+ArmyOpinion.name;Армия;на Армията;на нашата Армия
+MerchantsOpinion.name;Търговци;на Търговците;на нашите Търговци
+ClergyOpinion.Catholic.name;Духовенство;на Духовенството;на нашето Духовенство
+ClergyOpinion.Orthodox.name;Духовенство;на Духовенството;на нашето Духовенство
+ClergyOpinion.Muslim.name;Учени;на Учените;на нашите Учени
+ClergyOpinion.Pagan.name;Шамани;на Шаманите;на нашите Шамани
+ClergyOpinion.default.name;Духовенство;на Духовенството;на нашето Духовенство
+PeasantryOpinion.name;Селяни;на Селяните;на нашите Селяни

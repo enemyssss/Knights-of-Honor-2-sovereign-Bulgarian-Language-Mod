@@ -1,0 +1,10 @@
+﻿*;base;
+Title.buttons.continue;Продължи;
+Title.buttons.new_game;Нова Кампания;//Single Player
+Title.buttons.load_game;Зареди;
+Title.buttons.multiplayer;Мултиплеър;
+Title.buttons.settings;Настройки;
+Title.buttons.credits;Автори;
+Title.buttons.quit;Изход;
+Title.buttons.signin;Вписване;
+Title.buttons.signot;Отписване;

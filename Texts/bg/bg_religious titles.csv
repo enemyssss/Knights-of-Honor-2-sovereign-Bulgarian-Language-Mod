@@ -1,0 +1,20 @@
+﻿*;base;defplural;nom;ourakk;ourdat;ourgen;akk;s;pdat
+default;;{base}e;der {base};{base};{base};{base}s;den {base};{base}e;
+Catholic.titles.Cardinal;Кардинал;Кардинали;Кардиналът;нашия Кардинал;на нашия Кардинал;на нашия Кардинал;Кардинал-а;Kardinäle;Kardinälen
+Catholic.titles.CardinalElect;Избран кардинал;Избрани кардинали;Избраният кардинал;нашия Избран кардинал;на нашия Избран кардинал;на нашия Избран кардинал;Избран кардинал-а;designierte Kardinäle;designierten Kardinälen
+Catholic.titles.Cleric;Духовник;Духовници;Духовникът;нашия Духовник;на нашия Духовник;на нашия Духовник;Духовник-а;Kleriker;Klerikern
+Catholic.titles.Crusader;Кръстоносец;Кръстоносци;Кръстоносецът;нашия Кръстоносец;на нашия Кръстоносец;на нашия Кръстоносец;Кръстоносец-а;Kreuzfahrer;Kreuzfahrern
+Catholic.titles.Governor;Епископ на {governed_castle};Епископи на {governed_castle};Епископът на {governed_castle};нашия Епископ на {governed_castle};на нашия Епископ на {governed_castle};на нашия Епископ на {governed_castle};Епископ на {governed_castle}-а;Bischöfe von {governed_castle};Bischöfen von {governed_castle}
+Catholic.titles.Pope;Папа;Папи;Папата;нашия Папа;на нашия Папа;на нашия Папа;Папа-а;Päpste;Päpsten
+Muslim.titles.Caliph;Халиф;Халифи;Халифът;нашия Халиф;на нашия Халиф;на нашия Халиф;Халиф-а;Kalifen;Kalifen
+Muslim.titles.Caliphate;Халифат;Халифати;Халифатът;нашия Халифат;на нашия Халифат;на нашия Халифат;Халифат-а;;Kalifaten
+Muslim.titles.Cleric;Учен;Учени;Ученият;нашия Учен;на нашия Учен;на нашия Учен;Учен-а;Gelehrte;Gelehrten
+Muslim.titles.Governor;Шейх на {governed_castle};Шейхове на {governed_castle};Шейхът на {governed_castle};нашия Шейх на {governed_castle};на нашия Шейх на {governed_castle};на нашия Шейх на {governed_castle};Шейх на {governed_castle}-а;Scheiche von {governed_castle};Scheichen von {governed_castle}
+Orthodox.titles.Cleric;Духовник;Духовници;Духовникът;нашия Духовник;на нашия Духовник;на нашия Духовник;Духовник-а;Kleriker;Klerikern
+Orthodox.titles.EcumenicalPatriarch;Вселенски патриарх;Вселенски патриарси;Вселенският патриарх;нашия Вселенски патриарх;на нашия Вселенски патриарх;на нашия Вселенски патриарх;Вселенски патриарх-а;ökumenische Patriarchen;ökumenischen Patriarchen
+Orthodox.titles.Governor;Митрополит на {governed_castle};Митрополити на {governed_castle};Митрополитът на {governed_castle};нашия Митрополит на {governed_castle};на нашия Митрополит на {governed_castle};на нашия Митрополит на {governed_castle};Митрополит на {governed_castle}-а;Metropoliten von {governed_castle};Metropoliten von {governed_castle}
+Orthodox.titles.Patriarch;Патриарх;Патриарси;Патриархът;нашия Патриарх;на нашия Патриарх;на нашия Патриарх;Патриарх-а;Patriarchen;Patriarchen
+Pagan.titles.Cleric;Шаман;Шамани;Шаманът;нашия Шаман;на нашия Шаман;на нашия Шаман;Шаман-а;Schamanen;Schamanen
+Pagan.titles.Governor;Върховен жрец на {governed_castle};Върховни жреци на {governed_castle};Върховният жрец на {governed_castle};нашия Върховен жрец на {governed_castle};на нашия Върховен жрец на {governed_castle};на нашия Върховен жрец на {governed_castle};Върховен жрец на {governed_castle}-а;Hohepriester von {governed_castle};Hohepriestern von {governed_castle}
+Religion.titles.Cleric;Духовник;Духовници;Духовникът;нашия Духовник;на нашия Духовник;на нашия Духовник;Духовник-а;Kleriker;Klerikern
+Cleric.fallback_name;Духовник;Духовници;Духовникът;нашия Духовник;на нашия Духовник;на нашия Духовник;Духовник-а;Kleriker;Klerikern

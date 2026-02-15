@@ -1,0 +1,8 @@
+﻿*;base;defplural;nom;ourakk;ourdat;ourgen;akk
+default;;{base}e;der {base};{base};{base};{base}s;den {base}
+ClasslessPrince.name;Принц;Принцове;Принцът;нашия Принц;на нашия Принц;на нашия Принц;Принца
+Marshal.name;Маршал;Маршали;Маршалът;нашия Маршал;на нашия Маршал;на нашия Маршал;Маршала
+Merchant.name;Търговец;Търговци;Търговецът;нашия Търговец;на нашия Търговец;на нашия Търговец;Търговеца
+Diplomat.name;Дипломат;Дипломати;Дипломатът;нашия Дипломат;на нашия Дипломат;на нашия Дипломат;Дипломата
+Cleric.name;[{kingdom.cleric_title}|Kleriker];[{kingdom.cleric_title:s}|Kleriker];[{kingdom.cleric_title:nom}|der Kleriker];[{kingdom.cleric_title:ourakk}|Kleriker];[{kingdom.cleric_title:ourdat}|Kleriker];[{kingdom.cleric_title:ourgen}|Klerikers];[{kingdom.cleric_title:akk}|den Kleriker]
+Spy.name;Шпионин;Шпиони;Шпионинът;нашия Шпионин;на нашия Шпионин;на нашия Шпионин;Шпионина

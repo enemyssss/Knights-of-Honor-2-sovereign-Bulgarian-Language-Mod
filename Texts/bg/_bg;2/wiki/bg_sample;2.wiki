@@ -1,0 +1,28 @@
+#article SimpleArticle
+//#keywords text, attack, Crown Authority // ',' cannot be part of a keyword, but ' ' can
+//#keywords Empty, article // multiple #keywords are allowed
+//#keywords King, Prince, Patriarch, Ecumenical Patriarch, Pope
+//#keywords governing, governor, governed
+//#keywords Pact, Pacts, Defensive Pact, Offensive Pact
+//#keywords Diplomat, Marshal, Cleric, Spy, Merchant, Merchants, Trade
+//#keywords Province, Provinces, Kingdom
+//#keywords wiki article, article
+//#category how_to //: do this
+//#category what_is: this
+#caption "Проста" статия
+Това е {XXX:link}най-простата{/link} уики статия - само заглавие и текст. // коментар
+//друг коментар
+Множество редове са позволени.
+Завършването на ред с '\' \
+	продължава на следващия ред без прекъсване на реде.
+Маркиране като {b}удебелен{/b} и {i}курсив{/i} просто работи.
+"Кавички" работят като обикновен текст.
+
+Празните редове в текста се игнорират, но могат да бъдат направени:
+{p}\
+Връзките могат да бъдат толкова прости като {plr_kingdom.king}, {Barrels} или {wiki.HypertextArticle} или сложни, като:
+{tab}{Barrels:link}връзка към {Barrels} {wiki.ResourcesReference:link}ресурс{/link}{/link}.
+{tab}{wiki.HypertextArticle:link}връзка към друга уики статия{/link}.
+'#' в началото на реда не може да се използва (освен може би екраниран по някакъв начин)
+
+////#bug това е бъг

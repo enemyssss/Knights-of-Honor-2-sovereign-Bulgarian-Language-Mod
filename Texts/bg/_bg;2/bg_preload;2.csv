@@ -1,0 +1,15 @@
+*;base;
+Title.copyright;Knights of Honor 2: Sovereign (c) 2016-2022 THQ Nordic GmbH. Разработено от Black Sea Games Ltd. Всички права запазени.;
+Title.loading_progress.manifest;Подготовка на всички творения;
+Title.loading_progress.bundles_loaded;Всичко е подготвено;
+Title.loading_progress.battleview;Подготовка на бойните полета;
+Title.loading_progress.europe;Подготовка на обширните земи на Европа;
+Title.loading_progress.maps_battleview;Подготовка на градове и полета за епични битки;
+Title.loading_progress.maps_europe;Картографиране на Европа;
+Title.loading_progress.maps_test;Подготовка на карти със скрити съкровища;
+Title.loading_progress.misc;Внос на нелегални стоки;
+Title.loading_progress.settlements;Основаване на чудесни селища;
+Title.loading_progress.ui;Манипулиране на масите;
+Title.loading_progress.units;Набиране на страховити армии;
+Title.loading_progress.voice;Написване на вдъхновяващи речи;
+Title.loading_progress.test;Двойна проверка на всички кралски планове;

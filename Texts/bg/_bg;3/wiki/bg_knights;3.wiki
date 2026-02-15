@@ -1,0 +1,9 @@
+#article Cardinals
+#keywords Kardinal, Kardinäle
+#category classes_category
+#category religion_category
+#caption Kardinäle
+Katholische Priester können Kardinäle werden (abhängig von ihrer Stufe und ihren Beziehungen mit dem Pontifikat) und als solche die Buch- und Glaubensproduktion stark erhöhen. Außerdem steigt ihre Effizienz bei den meisten Kleriker-Aktionen.
+{p}Könige können keine designierten Kardinäle (und damit auch nicht zum Papst gewählt) werden und umgekehrt. Kardinäle können außerdem nicht heiraten, weshalb Prinzen, die Kardinäle werden, diese Möglichkeit einbüßen.
+
+

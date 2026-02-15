@@ -1,0 +1,51 @@
+#article StartingTips
+#caption Tipps für den Anfang
+#category how_to: Gut ins Spiel starten
+Die folgenden Tipps können für neue Spieler, die ein Spiel beginnen, hilfreich sein:
+{p}{b}Ritter:{/b}
+{blt} Man sollte mindestens einen Ritter für jede seiner Provinzen anheuern und die eigenen Ritter zu Statthaltern machen, um die eigenen Einnahmen erheblich zu erhöhen.
+{blt} Ein genauer Blick auf die eigenen Provinzen lohnt sich. Provinzen mit vielen Burgen sind ideal für Marschall-Statthalter, Provinzen mit vielen Dörfern für Kaufleute und Provinzen mit religiösen Siedlungen für Kleriker (Gelehrte/Schamanen).
+{blt} Idealerweise verfügt man schon früh über mindestens einen Kaufmann und einen Marschall, um Einnahmen und Verteidigung sicherzustellen. Diplomaten und Kleriker sind ebenfalls früh erforderlich. Spione sind im späteren Spielverlauf am hilfreichsten.
+{blt} Indem man Kaufleute entsendet, kann man Handel treiben. Wenn es keine Handelsabkommen gibt, kann man Diplomatie nutzen, um welche abzuschließen.
+{blt} Eine schnelle Erhöhung der Stufe des eigenen Königs ist sehr kostengünstig, da er alle seine Fähigkeiten direkt auf der maximalen Stufe beherrscht.
+{blt} Sobald man genügend Bücher hat, kann man sie einsetzen, um die Stufe eines Ritters zu erhöhen.
+{blt} In der politischen Übersicht findet man die eigenen Haltungen und Beziehungen. Wenn man es mit einem starken Feind zu tun hat, kann ein Diplomat für Friedensverhandlungen entsendet werden. Wenn die Beziehungen zu einem starken benachbarten Königreich schlecht sind, können sie durch das Entsenden eines Diplomaten verbessert werden.
+{p}{b}Gebäude:{/b}
+{blt} Wenn man sich anfangs mit einem anderen Königreich im Krieg befindet oder einen Krieg zu beginnen plant, muss man schnell in mindestens einer Stadt eine {Barracks} bauen und dort ein paar Verbesserungen vornehmen, um bessere Truppen zu produzieren. Wer keine Burgen, dafür aber viele Dörfer hat, kann stattdessen beginnen, {Housings} und eine {VillageMilitia} aufzubauen.
+{blt} Gebäude, die die Bevölkerung oder ihr Wachstum vergrößern oder die Nahrungsproduktion sicherstellen, sind in Provinzen mit {Barracks} immer eine gute Ergänzung, wenn man dort viele Truppen anheuern möchte.
+{blt} In Provinzen, in denen Handel und die Goldeinnahmen entwickelt werden sollen, beginnt man am besten mit dem Bau des {MarketSquare}es. Allgemein sind alle niederrangigen Gebäude sehr kostengünstig und in der Regel lohnt es sich, anfangs leere Gebäudeplätze zu füllen, selbst wenn man später einige wieder zerstören muss.
+{blt} Gebäude, die durch Provinzmerkmale verfügbar sind, liefern in der Regel erhebliche Boni, wenn sie verbessert werden. Wenn in einer Provinz mehrere vom selben Typ vorhanden sind, ist das ebenfalls ein guter Anfang.
+{blt} Es ist sehr effizient, Verbesserungen an Gebäuden vorzunehmen, von denen man mehrere besitzt.
+{blt} Der Bau von fortgeschrittenen Gebäuden sollte zu Beginn des Spiels nicht überstürzt werden: Sie sind leistungsfähiger, aber auch sehr teuer, und erfordern in der Regel eine Menge Waren, die man am Anfang nicht hat.
+{p}{b}Armee und Kriege:{/b}
+{blt} Man kann sich mit Marschällen durch die Provinzen bewegen und Trupps anheuern.
+{blt} Außerdem können Garnisonen gefüllt werden, wobei man aber die Nahrungsmittel im Königreich im Auge behalten muss. Übermäßige Nahrungsmittel bieten keinen Vorteil, zu wenige (negative) Nahrungsmittel verursachen allerdings Probleme.
+{blt} Das Anheuern von Truppen ist nicht nur wichtig für die Verteidigung, wenn ein Krieg beginnt, sondern auch eine wichtige Vorsichtsmaßnahme. Wenn man wehrlos ist, ist die Wahrscheinlichkeit, dass Feinde angreifen, höher.
+{blt} Fernkampftruppen sind bei Belagerungen die beste Wahl (und somit ebenfalls ideal, um Garnisonen zu füllen) und Infanterietruppen sind in Feldschlachten am vielseitigsten.
+{blt} Verteidigende Truppen haben einen deutlichen Moralvorteil. Bei Belagerungskämpfen tauchen zudem viele Verteidiger auf (Stadtwachen und Dorfbewohner sowie Garnisonen und Armeen), also muss man gut vorbereitet sein, wenn man in fremdes Gebiet einmarschieren möchte.
+{blt} Man sollte vermeiden, freundlich gesinnten Königreichen sowie Königreichen, in denen man Armeen hat, und solchen, mit denen man kürzlich einen Waffenstillstand geschlossen hat, den Krieg zu erklären. Dadurch verschlechtern sich die Beziehungen mit vielen der anderen Königreiche erheblich.
+{blt} Bevor man einem Königreich den Krieg erklärt, sollte man immer prüfen, ob es einen Verteidigungspakt mit starken Verbündeten gegen einen geschlossen hat und ob man Kaufleute oder Diplomaten dorthin entsendet hat (wenn ja, ruft man sie erst zurück).
+{p}{p}Viel Glück!
+
+
+#article MakingTradeCenter
+#caption Handelszentrum entwickeln
+#category how_to: Entwicklung eines Handelszentrums
+Ein Handelszentrum kann die Wirtschaft eines Königreiches erheblich ankurbeln, vor allem, wenn es eine größere Handelszone besitzt. Um den Status eines Handelszentrums zu erreichen, braucht eine Stadt zwar auch ein bisschen Glück, vor allem aber eine hohe Handelsproduktion. Man kann ein Handelszentrum auch einnehmen, muss es aber entwickeln, um es beizubehalten.
+{p}{b}Geeignete Provinzen müssen mindestens ein paar der folgenden Eigenschaften besitzen – je mehr, desto besser:{/b}
+{blt} Küste-Provinzmerkmal mit vielen Küstensiedlungen für einen guten {TradePort}
+{blt} Drei oder vier {Village:link}Dörfer{/link} für eine gute {MerchantsGuild}
+{blt} Drei oder vier {Farm:link}Getreidehöfe{/link} für einen guten {FoodMarket}
+{blt} Provinzmerkmale, die wirtschaftlich leistungsstarke Gebäude für die Warenproduktion freischalten
+{p}{b}Das Handelspotenzial entwickeln:{/b}
+{blt} Kaufleute sind mit Abstand die besten Statthalter, um dieses Ziel zu erreichen. Man muss die richtigen Fähigkeiten wählen, um den Handel der Provinz anzukurbeln: {LogisticsSkill} ist am besten geeignet, wenn viele Waren produziert werden, {NavigationSkill} eignet sich bei vielen Küstensiedlungen, {TradingSkill}, wenn viele Dörfer vorhanden sind, usw.
+{blt} Der Fokus sollte auf der Verbesserung von Gebäuden liegen, die für den meisten Handel sorgen werden. Wenn man beispielsweise einen mächtigen Handelshafen aufbauen will, beginnt man mit dem Aufbau von {Woodworking} und {FlaxGrowing} an einem beliebigen Ort im Königreich und verbessert dann den {Harbor} und die {Shipyard}. Ein {TradePort} ist das Tüpfelchen auf dem i.
+{blt} Auch einige Königreichstraditionen können die Handelsmacht einer Provinz stärken.
+{blt} Das Handelszentrum schützen: Obwohl man Gebäudeplätze dort meist nicht für Verteidigungsgebäude entbehren kann, kann man immer die Befestigungen verbessern und ein paar starke Bogenschützen in der Garnison stationieren. Längere Belagerungen, die dazu führen, dass die Provinz nicht regiert oder geplündert wird, können zum Verlust des Status als Handelszentrum führen.
+{p}{b}Handelszone erweitern:{/b}
+{blt} Die Handelszone kann am besten erweitert werden, wenn sie von eigenen Provinzen umgeben ist.
+{blt} Man sollte für gute Beziehungen mit fremden Königreichen in der Nähe des Handelszentrums sorgen, besonders mit den großen.
+{blt} Man sollte den Handel auch in benachbarten Städten entwickeln.
+{blt} Es ist immer hilfreich, andere Handelszentren in der Nähe zu sabotieren.
+
+

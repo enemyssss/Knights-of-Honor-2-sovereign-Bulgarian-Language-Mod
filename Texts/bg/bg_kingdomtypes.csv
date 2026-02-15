@@ -1,0 +1,128 @@
+﻿*;base;genour;genyour;datour;datyour;akkour;nomour;nom;akk;dat;gen
+default;;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+Nobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+NordicNobility.Duchy;Ярлство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+TribalNobility.Duchy;Племе;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+AllNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+RussNobility.Duchy;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SteppeNobility.Duchy;Племенно княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+TurkNobility.Duchy;Бейлик;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+GreekNobility.Duchy;Деспотство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+ArabNobility.Duchy;Емират;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+IranicNobility.Duchy;Емират;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+SlavNobility.Duchy;Банат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+ItalianNobility.Duchy;Република;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+GenoeseNobility.Duchy;Република;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+AfricanNobility.Duchy;Племенно княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+BritNobility.Duchy;Графство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+OrderNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+BulgarianNobility.Duchy;Деспотство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SharifNobility.Duchy;Емират;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+BerberNobility.Duchy;Тайфа;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+NormanNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CaucasianNobility.Duchy;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+HungarianNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+WallachianNobility.Duchy;Войводство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+BalticNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+WelshNobility.Duchy;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+ScotNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CatalanNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SwissNobility.Duchy;Графство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+RepublicNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+ZealotNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CountyNobility.Duchy;Графство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+GermanNobility.Duchy;Маркграфство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+FrisianNobility.Duchy;Муниципалитет;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+SardinianNobility.Duchy;Кураторство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+RomanNobility.Duchy;Деспотство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+NovgorodianNobility.Duchy;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+PolishNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+KanemNobility.Duchy;Племенно княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CrusaderNobility.Duchy;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+KalmarNobility.Duchy;Ярлство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+LatinNobility.Duchy;Херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+Nobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+NordicNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+TribalNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+AllNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+RussNobility.Empire;Царство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SteppeNobility.Empire;Хаганат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+TurkNobility.Empire;Султанат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+GreekNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+ArabNobility.Empire;Султанат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+IranicNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+SlavNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+ItalianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+GenoeseNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+AfricanNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+BritNobility.Empire;Обединено кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+OrderNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+BulgarianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+SharifNobility.Empire;Халифат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+BerberNobility.Empire;Султанат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+NormanNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+CaucasianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+HungarianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+WallachianNobility.Empire;Царство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+BalticNobility.Empire;Общност на нациите;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+WelshNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+ScotNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+CatalanNobility.Empire;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SwissNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+RepublicNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+ZealotNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+CountyNobility.Empire;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+GermanNobility.Empire;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+FrisianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+SardinianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+RomanNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+NovgorodianNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+PolishNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+KanemNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+CrusaderNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+KalmarNobility.Empire;Съюз;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+LatinNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+Nobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+NordicNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+TribalNobility.Kingdom;Върховно вождство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+AllNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+RussNobility.Kingdom;Велико княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SteppeNobility.Kingdom;Ханство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+TurkNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+GreekNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+ArabNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+IranicNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SlavNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+ItalianNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+GenoeseNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+AfricanNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+BritNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+OrderNobility.Kingdom;Държава;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+BulgarianNobility.Kingdom;Царство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SharifNobility.Kingdom;Шарифат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+BerberNobility.Kingdom;Емират;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+NormanNobility.Kingdom;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CaucasianNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+HungarianNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+WallachianNobility.Kingdom;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+BalticNobility.Kingdom;Велико херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+WelshNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+ScotNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CatalanNobility.Kingdom;Княжество;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+SwissNobility.Kingdom;Конфедерация;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+RepublicNobility.Kingdom;Република;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+ZealotNobility.Kingdom;Зилотска република;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+CountyNobility.Kingdom;Маркизство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+GermanNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+FrisianNobility.Kingdom;Свободна земя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+SardinianNobility.Kingdom;Юдикат;на нашия {base};на вашия {base};на нашия {base};на вашия {base};нашия {base};нашият {base};{base}-ът;{base}-а;на {base}-а;на {base}-а
+RomanNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+NovgorodianNobility.Kingdom;Република;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+PolishNobility.Kingdom;Старше херцогство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+KanemNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+CrusaderNobility.Kingdom;Кръстоносна държава;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+KalmarNobility.Kingdom;Кралство;на нашето {base};на вашето {base};на нашето {base};на вашето {base};нашето {base};нашето {base};{base}-то;{base}-то;на {base}-то;на {base}-то
+LatinNobility.Kingdom;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+PapalNobility.Duchy;Република;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+PapalNobility.Kingdom;Държава;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та
+PapalNobility.Empire;Империя;на нашата {base};на вашата {base};на нашата {base};на вашата {base};нашата {base};нашата {base};{base}-та;{base}-та;на {base}-та;на {base}-та;

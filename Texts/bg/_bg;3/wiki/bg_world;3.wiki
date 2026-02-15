@@ -1,0 +1,23 @@
+#article TradeCenters
+#keywords Handelszentrum, Handelszentren, Handelszone
+#category townsandprovince
+#caption Handelszentren
+Handelszentren sind Städte (Provinzen) mit großem wirtschaftlichen Potenzial. Sie können je nach Handelszone und Handelsverkehr hohe Goldeinnahmen einbringen.
+{p}Die wirtschaftliche Attraktivität einer Stadt hängt von ihren Handelsaktivitäten ab, in geringerem Maße aber auch vom Handel in ihren benachbarten Provinzen. Wirtschaftlich attraktive Städte können Handelszentren werden, ein Handelszentrum kann sich aber auch wieder auflösen oder in eine andere nahe Provinz umziehen, wenn diese deutlich attraktiver ist.
+{p}Die wirtschaftliche Attraktivität bestimmt auch, wie weit sich die Handelszone eines Handelszentrums ausbreitet. Die Beziehungen zu den Königreichen, die das Handelszentrum erreicht, spielen dabei eine wichtige Rolle. Gute Beziehungen zu umliegenden Königreichen sind äußerst hilfreich, wenn eine größere Handelszone aufgebaut werden soll.
+{p}Spieler können Handelszentren nicht selbst gründen oder dafür sorgen, dass eine Stadt zu einem Handelszentrum wird. Normalerweise wird größeren Umschlagplätzen aber früher oder später diese Anerkennung gewährt.
+{p}Ein Königreich, das zu viele Handelszentren besitzt, wird oft zum Ziel feindlicher Eroberungen.
+{p}Manche Städte haben eine sehr hohe Chance, bereits als Handelszentren zu starten – im Multiplayer allerdings nicht in Spielerkönigreichen, da der frühe Besitz eines Handelszentrums einen großen {noparse}Vorteil{/noparse} darstellt.
+{p}{wiki.MakingTradeCenter:link} > Handelszentren entwickeln{/link}
+
+
+#article KingdomLevies
+#keywords Königreich-Einberufungen, Königreich-Einberufung, Einberufungen, Einberufung, Einberufungsausbildung
+#category kingdom_category: Einberufungen
+#caption Einberufungen des Königreichs
+Einberufungen des Königreichs {levy_icon} repräsentieren das Ausbildungsniveau und die Vorbereitung von Männern, die als reguläre Soldaten der Armee des Königreichs beitreten sollen. Die aktuell vorbereiteten Einberufungen und die Ausbildungszeit für neue Rekruten werden oben rechts auf dem Haupt-HUD angezeigt.
+{p}Königliche Ländereien bereiten erheblich mehr Einberufungen vor als nicht regierte Provinzen. Siedlungen (hauptsächlich Dörfer und Burgen), Gebäude, Verbesserungen und Traditionen tragen zu Einberufungen bei, ebenso Statthalter-Boni (abhängig von ihrer Klasse und ihren Fähigkeiten). Oft sind hierbei bestimmte Kombinationen vorteilhaft, es ist daher wichtig, den passenden Statthalter in der passenden Provinz einzusetzen und die richtigen Fähigkeiten zu erlernen. Der Militärbezirk bietet die kürzeste Ausbildungszeit für Einberufungen, aber die {VillageMilitia} kann auch eine wichtige Rolle spielen. Sobald die Einberufungskapazität eines Königreiches erreicht ist, steigen anstelle der Einberufungsproduktion die Goldeinnahmen etwas an.
+{p}Die Rekrutierung fast aller Armee-Trupptypen (außer Bauern und Milizen) erfordert Einberufungen. Je professioneller die Soldaten sind, desto höher sind auch die Kosten. Die Bereitstellung zusätzlicher Truppen erfordert ebenfalls viele Einberufungen.
+{p}Auch als Provinzressource spielen Einberufungen eine wichtige Rolle. Die Einberufenen verteidigen ihre Siedlungen und verstärken die Armeen ihres Statthalters und der Verteidiger ihrer Stadt. Ein Armeeführer, der Statthalter einer Provinz mit zahlreichen Einberufungen ist, ist ein ernst zu nehmender Faktor.
+
+

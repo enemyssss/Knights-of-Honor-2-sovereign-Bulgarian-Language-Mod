@@ -1,0 +1,9 @@
+*;base;
+VassalVassalage.name;Васал;
+VassalVassalage.tooltip;Този васал плаща васален данък на своя суверен.;
+ScuttageVassalage.name;Скутаж;
+ScuttageVassalage.tooltip;Суверенът обещава да защитава този васал в замяна на повече данък.;
+MarchVassalage.name;Марка;
+MarchVassalage.tooltip;Този васал обещава да помага на своя суверен във войни в замяна на неплащане на васален данък.;
+SacredLandVassalage.name;Свещена земя;
+SacredLandVassalage.tooltip;Този васал се управлява от вярващите.;
