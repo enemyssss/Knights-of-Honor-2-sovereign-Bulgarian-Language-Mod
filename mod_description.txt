@@ -1,0 +1,31 @@
+Adds full Bulgarian language support to Knights of Honor II: Sovereign.
+
+This is a fan-made text-only localization mod created using the official modding system.
+It does not modify gameplay and is safe for multiplayer.
+
+Credits:
+Translation and localization: Lalyo Boyadzhiev
+
+Project URL:
+https://github.com/enemyssss/Knights-of-Honor-2-sovereign-Bulgarian-Language-Mod
+
+Special thanks to the developers for providing official mod support.
+
+Requires a legal copy of the game.
+
+------------------------------------------------------------
+
+Добавя пълна поддръжка на български език за Knights of Honor II: Sovereign.
+
+Това е фенски текстов мод за локализация, създаден чрез официалната модинг система.
+Не променя геймплея и е безопасен за мултиплейър.
+
+Кредити:
+Превод и локализация: Лальо Бояджиев
+
+Проект:
+https://github.com/enemyssss/Knights-of-Honor-2-sovereign-Bulgarian-Language-Mod
+
+Специални благодарности на разработчиците за предоставената официална модинг поддръжка.
+
+Необходима е легална копие на играта.
