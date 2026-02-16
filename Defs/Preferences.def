@@ -1,0 +1,4 @@
+Preferences.language_flags
+{
+	sprite bg = "Assets/UI/flag_bg.png:flag_bg#1"
+}
