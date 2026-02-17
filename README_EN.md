@@ -85,3 +85,11 @@ If you find any errors or inconsistencies, please open an issue on GitHub.
 This project distributes only original translation work and mod configuration files.
 
 No original game assets or copyrighted materials are included.
+
+---
+
+## ☕ Support this project
+
+If you find this project useful, consider supporting it:
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=D64HSUS5CZGEJ)
