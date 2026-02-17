@@ -1,23 +1,64 @@
 #article TradeCenters
-#keywords Handelszentrum, Handelszentren, Handelszone
+
+
+#keywords Търговски център, Търговски центрове, Търговска зона
+
+
 #category townsandprovince
-#caption Handelszentren
-Handelszentren sind Städte (Provinzen) mit großem wirtschaftlichen Potenzial. Sie können je nach Handelszone und Handelsverkehr hohe Goldeinnahmen einbringen.
-{p}Die wirtschaftliche Attraktivität einer Stadt hängt von ihren Handelsaktivitäten ab, in geringerem Maße aber auch vom Handel in ihren benachbarten Provinzen. Wirtschaftlich attraktive Städte können Handelszentren werden, ein Handelszentrum kann sich aber auch wieder auflösen oder in eine andere nahe Provinz umziehen, wenn diese deutlich attraktiver ist.
-{p}Die wirtschaftliche Attraktivität bestimmt auch, wie weit sich die Handelszone eines Handelszentrums ausbreitet. Die Beziehungen zu den Königreichen, die das Handelszentrum erreicht, spielen dabei eine wichtige Rolle. Gute Beziehungen zu umliegenden Königreichen sind äußerst hilfreich, wenn eine größere Handelszone aufgebaut werden soll.
-{p}Spieler können Handelszentren nicht selbst gründen oder dafür sorgen, dass eine Stadt zu einem Handelszentrum wird. Normalerweise wird größeren Umschlagplätzen aber früher oder später diese Anerkennung gewährt.
-{p}Ein Königreich, das zu viele Handelszentren besitzt, wird oft zum Ziel feindlicher Eroberungen.
-{p}Manche Städte haben eine sehr hohe Chance, bereits als Handelszentren zu starten – im Multiplayer allerdings nicht in Spielerkönigreichen, da der frühe Besitz eines Handelszentrums einen großen {noparse}Vorteil{/noparse} darstellt.
-{p}{wiki.MakingTradeCenter:link} > Handelszentren entwickeln{/link}
+
+
+#caption Търговски центрове
+
+
+Търговските центрове са градове (провинции) с голям икономически потенциал. Те могат да носят високи приходи от злато в зависимост от търговската зона и трафика.
+
+
+{p}Икономическата привлекателност на един град зависи от неговите търговски дейности, но в по-малка степен и от търговията в съседните му провинции. Икономически привлекателните градове могат да станат търговски центрове, но търговски център може също да се разпадне или да се премести в друга близка провинция, ако тя е значително по-привлекателна.
+
+
+{p}Икономическата привлекателност определя също колко далеч се разпространява търговската зона на търговския център. Отношенията с кралствата, до които достига търговският център, играят важна роля. Добрите отношения със съседните кралства са изключително полезни, ако искате да изградите по-голяма търговска зона.
+
+
+{p}Играчите не могат сами да създават търговски центрове или да гарантират, че даден град ще стане търговски център. Обикновено обаче на по-големите търговски възли рано или късно се дава това признание.
+
+
+{p}Кралство, което притежава твърде много търговски центрове, често става цел на враждебни завоевания.
+
+
+{p}Някои градове имат много голям шанс да започнат като търговски центрове – но в мултиплейър не и в кралства на играчи, тъй като ранното притежание на търговски център представлява голямо {noparse}предимство{/noparse}.
+
+
+{p}{wiki.MakingTradeCenter:link} > Развиване на търговски центрове{/link}
+
+
+
+
+
+
+
+
+
 
 
 #article KingdomLevies
-#keywords Königreich-Einberufungen, Königreich-Einberufung, Einberufungen, Einberufung, Einberufungsausbildung
-#category kingdom_category: Einberufungen
-#caption Einberufungen des Königreichs
-Einberufungen des Königreichs {levy_icon} repräsentieren das Ausbildungsniveau und die Vorbereitung von Männern, die als reguläre Soldaten der Armee des Königreichs beitreten sollen. Die aktuell vorbereiteten Einberufungen und die Ausbildungszeit für neue Rekruten werden oben rechts auf dem Haupt-HUD angezeigt.
-{p}Königliche Ländereien bereiten erheblich mehr Einberufungen vor als nicht regierte Provinzen. Siedlungen (hauptsächlich Dörfer und Burgen), Gebäude, Verbesserungen und Traditionen tragen zu Einberufungen bei, ebenso Statthalter-Boni (abhängig von ihrer Klasse und ihren Fähigkeiten). Oft sind hierbei bestimmte Kombinationen vorteilhaft, es ist daher wichtig, den passenden Statthalter in der passenden Provinz einzusetzen und die richtigen Fähigkeiten zu erlernen. Der Militärbezirk bietet die kürzeste Ausbildungszeit für Einberufungen, aber die {VillageMilitia} kann auch eine wichtige Rolle spielen. Sobald die Einberufungskapazität eines Königreiches erreicht ist, steigen anstelle der Einberufungsproduktion die Goldeinnahmen etwas an.
-{p}Die Rekrutierung fast aller Armee-Trupptypen (außer Bauern und Milizen) erfordert Einberufungen. Je professioneller die Soldaten sind, desto höher sind auch die Kosten. Die Bereitstellung zusätzlicher Truppen erfordert ebenfalls viele Einberufungen.
-{p}Auch als Provinzressource spielen Einberufungen eine wichtige Rolle. Die Einberufenen verteidigen ihre Siedlungen und verstärken die Armeen ihres Statthalters und der Verteidiger ihrer Stadt. Ein Armeeführer, der Statthalter einer Provinz mit zahlreichen Einberufungen ist, ist ein ernst zu nehmender Faktor.
 
 
+#keywords Кралски набори, Кралски набор, Набори, Набор, Обучение на набори
+
+
+#category kingdom_category: Набори
+
+
+#caption Набори на Кралството
+
+
+Наборите на кралството {levy_icon} представляват нивото на обучение и подготовка на мъжете, които ще се присъединят като редовни войници към армията на кралството. Текущо подготвените набори и времето за обучение на нови новобранци се показват горе вдясно на основния интерфейс (HUD).
+
+
+{p}Кралските земи подготвят значително повече набори от неоправляваните провинции. Селищата (главно села и замъци), сградите, подобренията и традициите допринасят за наборите, както и бонусите на губернаторите (в зависимост от техния клас и умения). Често определени комбинации са изгодни тук, така че е важно да поставите правилния губернатор в правилната провинция и да научите правилните умения. Военният район предлага най-краткото време за обучение на набори, но {VillageMilitia} също може да играе важна роля. Щом капацитетът за набори на едно кралство бъде достигнат, вместо производство на набори, приходите от злато се увеличават леко.
+
+
+{p}Наемането на почти всички видове армейски отряди (с изключение на селяни и опълчение) изисква набори. Колкото по-професионални са войниците, толкова по-високи са разходите. Осигуряването на допълнителни войски също изисква много набори.
+
+
+{p}Наборите играят важна роля и като ресурс на провинцията. Наборите защитават своите селища и подсилват армиите на своя губернатор и защитниците на своя град. Военачалник, който е губернатор на провинция с многобройни набори, е сериозен фактор.

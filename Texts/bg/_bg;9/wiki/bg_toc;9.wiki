@@ -1,26 +1,101 @@
 #article Keyword
+
+
+
 #TOC
+
+
+
 #caption {q}{context_str:#}{q}
+
+
+
 {q}{noparse}{context_str:#}{/noparse}{q}:
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeyword" keyword=(context_str)
+
+
+
 {tab}{instance.def_field}
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordResource" keyword=(context_str)
+
+
+
 {tab}{instance}(Ресурс)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordProvinceFeature" keyword=(context_str)
+
+
+
 {tab}{instance}(Характеристика)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordSettlement" keyword=(context_str)
+
+
+
 {tab}{instance}(Селище)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordKingdomAdvantage" keyword=(context_str)
+
+
+
 {tab}{instance}(Предимство)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordUnit" keyword=(context_str)
+
+
+
 {tab}{instance}(Единица)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordOpinion" keyword=(context_str)
+
+
+
 {tab}{instance}(Мнение)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordSkill" keyword=(context_str)
+
+
+
 {tab}{instance}(Умение)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordTradition" keyword=(context_str)
+
+
+
 {tab}{instance}(Традиция)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordBuldings" keyword=(context_str)
+
+
+
 {tab}{instance.def}(Сграда)
+
+
+
 #rows based_on=WikiTOCRow populate="PopulateKeywordUpgrades" keyword=(context_str)
+
+
+
 {tab}{instance.def}(Подобрение-{instance.def.upgrade_of})

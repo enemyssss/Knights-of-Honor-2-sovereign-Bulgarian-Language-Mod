@@ -20,13 +20,11 @@ This project adds full Bulgarian language support to the game using the official
 ## Installation
 
 1. Navigate to:
-
    C:\Users\<your-user>\AppData\LocalLow\BlackSeaGames\Sovereign\Mods
 
 2. If the "Mods" folder does not exist, create it.
 
 3. Create a new folder inside "Mods" called:
-
    BulgarianLanguageMod
 
 4. Copy all mod files into that folder.
@@ -61,6 +59,16 @@ All rights to the original game belong to its developers and publisher.
 This project is not affiliated with, endorsed by, or associated with the official developers or publisher.
 
 You must own a legal copy of the game to use this mod.
+
+---
+
+## Support the Project
+
+This mod is developed in my free time.
+
+If you enjoy this project and would like to support its continued development, you can make a voluntary donation via PayPal.
+
+Donations are completely optional and do not provide any additional content or in-game benefits.
 
 ---
 

@@ -3,7 +3,7 @@
 //#keywords Empty, article // multiple #keywords are allowed
 //#keywords King, Prince, Patriarch, Ecumenical Patriarch, Pope
 //#keywords governing, governor, governed
-#keywords Пакт, Пактове, Отбранителен пакт, Нападателен пакт
+#keywords Pact, Pacts, Defensive Pact, Offensive Pact
 //#keywords Diplomat, Marshal, Cleric, Spy, Merchant, Merchants, Trade
 //#keywords Province, Provinces, Kingdom
 //#keywords wiki article, article
@@ -12,18 +12,18 @@
 #caption "Проста" статия
 Това е {XXX:link}най-простата{/link} уики статия - само заглавие и текст. // a comment
 //another comment
-Позволени са няколко реда.
+Позволени са множество редове.
 Завършването на ред с '\' \
 	продължава на следващия ред без прекъсване.
-Маркирането като {b}удебелен{/b} и {i}курсив{/i} работи.
+Маркиране като {b}удебелен{/b} и {i}курсив{/i} просто работи.
 "Кавичките" работят като обикновен текст.
 
 Празните редове в текста се игнорират, но могат да бъдат направени:
 {p}\
 Връзките могат да бъдат прости като {plr_kingdom.king}, {Barrels} или {wiki.HypertextArticle} или сложни, като:
-{tab}{Barrels:link}връзка към {Barrels} {wiki.ResourcesReference:link}ресурс{/link}{/link}.
+{tab}{Barrels:link}връзка към {Barrels} {wiki.ResourcesReference:link}ресурса{/link}{/link}.
 {tab}{wiki.HypertextArticle:link}връзка към друга уики статия{/link}.
-'#' в началото на реда не може да се използва (освен ако не е екраниран по някакъв начин)
+'#' at the beginning of a line cannot be used (unless maybe escaped somehow)
 
 ////#bug this is a bug
 
@@ -35,7 +35,7 @@
 //#keywords wiki article, article
 //#keywords barrels
 #keywords Хипертекст
-#caption Хипертекстова статия ({plr_kingdom})
+#caption Хипертекст статия ({plr_kingdom})
 Някакъв текст
 
 #row
@@ -59,4 +59,4 @@
 #row
 	Този текст ще се появи под предишните 2 текста
 #separator
-Това е текст в долния колонтитул
+Това е текст във футъра

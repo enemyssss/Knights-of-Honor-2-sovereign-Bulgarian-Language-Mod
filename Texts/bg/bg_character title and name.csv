@@ -1,4 +1,4 @@
-﻿*;base;s;gen
+*;base;s;gen
 Character.name;{title} {name}[ {name_idx:roman}.];{title} {name:gen};{title} {name:gen}
 Character.kingdom_class_and_age;[{class_name} {kingdom:prepfrom}|{kingdom}] {i}({age}){/i};;
 Character.class_name;{class_title} {name}[ {name_idx:roman}.];{class_title} {name:gen};{class_title} {name:gen}

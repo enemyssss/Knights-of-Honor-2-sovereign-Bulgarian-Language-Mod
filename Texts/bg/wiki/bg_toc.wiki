@@ -14,7 +14,7 @@
 
 {p}{wiki.HowTo}
 
-{p}Референции:
+{p}Справки:
 {tab}{blt_wiki_14}  {wiki.BuildingsReference}
 {tab}{blt_wiki_14}  {wiki.ResourcesReference}
 {tab}{blt_wiki_14}  {wiki.ProvinceFeaturesReference}
@@ -28,10 +28,10 @@
 
 #article TOC_Description
 #caption Добре дошли
-Добре дошли в "Knights of Honor II: Sovereign"!
-{p}Тук в кралската библиотека ще се опитаме да ви помогнем да разберете повече за света, механиките и компонентите на нашата игра.
-{p}Можете да навигирате към основните секции на тази библиотека с бутоните от лявата страна на този панел. Бутоните в долната част на панела ще ви помогнат да се връщате назад и напред, както и да виждате историята на всички прочетени статии. Можете също да натиснете бутона "backspace", за да се върнете назад.
-{p}Всички маркирани ключови думи са връзки към статии в библиотеката и ако ключова дума препраща към повече от една статия, ще видите списък с всички свързани статии, от които да избирате.
+Добре дошли в „Knights of Honor II: Sovereign“!
+{p}Тук в кралската библиотека предоставяме информация за света, механиките и компонентите на нашата игра.
+{p}С бутоните от лявата страна на това поле могат да се извикват основните раздели на тази библиотека. С бутоните долу може да се навигира напред и назад и да се разглежда историята на всички прочетени статии. С бутона за връщане също може да се върнете една стъпка назад.
+{p}Всички подчертани ключови думи са връзки към статии в библиотеката. Когато ключова дума препраща към няколко статии, се показва списък с всички свързани статии, от който може да се избира.
 
 
 #article History
@@ -52,18 +52,18 @@
 
 #article WhatIs
 #TOC
-#caption Научете за...
-#keywords Научете за
-Научете за:
+#caption Научете повече за ...
+#keywords Научете повече за
+Научете повече за:
 #rows based_on=WikiTOCRow populate="PopulateCategory" category="what_is"
 	{tab}{blt_wiki_14}  {instance.link_open}{instance.link_text}{instance.link_close}
 
 
 #article WhatIs_Description
-#caption Научете за...
-В тази секция можете да намерите информация за функциите на играта, нейните компоненти и как работят.
-{p}Ако търсите помощ за това как да постигнете нещо или да преодолеете препятствие, можете да посетите секцията {wiki.HowTo}.
-{p}За какво искате да научите?
+#caption Научете повече за ...
+В този раздел може да се намери информация за функциите на играта, отделните компоненти и начина им на работа.
+{p}По-конкретна помощ за това как да се постигне нещо определено или да се преодолее трудност, има в раздел „{wiki.HowTo}“.
+{p}Научете повече за:
 
 
 #article BuildingsReference
@@ -82,7 +82,7 @@
 			{instance.def}
 	#/table
 #row
-Занаяти и Индустрии
+Търговия и производство
 #separator padding.bottom = 5
 #rows based_on=WikiIconTOCRow populate=(CommonDistrict.DEF.buildings)
 	//#space width=0
@@ -96,7 +96,7 @@
 
 #article ResourcesReference
 #TOC Resources
-#caption Стоки
+#caption Ресурси
 #rows based_on=WikiIconTOCRow populate="PopulateDefs" type="Resource"
 	#image size=47,47 asset=(instance.icon) based_on=square_icon
 	{instance}
@@ -104,7 +104,7 @@
 
 #article ProvinceFeaturesReference
 #TOC ProvinceFeatures
-#caption Характеристики на провинция
+#caption Характеристики на провинцията
 #rows based_on=WikiIconTOCRow populate="PopulateDefs" type="ProvinceFeature"
 	#image size=47,47 asset=(instance.icon) based_on=square_icon
 	{instance}
@@ -120,9 +120,9 @@
 
 #article AdvantagesReference
 #TOC
-#caption Предимства на кралството
+#caption Кралски постижения
 #rows based_on=WikiIconTOCRow populate="PopulateDefs" type="KingdomAdvantage"
-	#image size=74,47 asset=(advantage.illustration) based_on=rect_icon
+	#image size=74,47 asset=(instance.illustration) based_on=rect_icon
 	{instance}
 
 
