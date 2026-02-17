@@ -5137,7 +5137,7 @@
 "KingdomBooksTooltipHT.prompt";"{i}Кликнете, за да видите повече подробности.{/i}"
 "KingdomPietyTooltipHT.caption.text";"Религия"
 "KingdomPietyTooltipHT.descr.text";"Религиозната власт позволява на {kingdom.cleric_title:s} на нашето кралство да извършват своите действия в подкрепа на короната."
-"KingdomPietyTooltipHT.religion_type";"{section_header}Kingdom Religion:{/section_header} {religion.full_name}"
+"KingdomPietyTooltipHT.religion_type";"{section_header}Религия:{/section_header} {religion.full_name}"
 "KingdomPietyTooltipHT.income_and_expenses";"{section_header}{religion.piety} приходи:{/section_header} {kingdom_piety_income:bonus}{piety_icon}{p}[{section_header}{religion.piety} разходи:{/section_header} {kingdom_piety_expenses:nonzero:penalty_no_sign}{piety_icon}]"
 "KingdomPietyTooltipHT.balance";"[{kingdom_piety_expenses:nonzero:if}{section_header}Баланс:{/section_header} {kingdom_piety_balance:bonus:F0}{piety_icon}]"
 "KingdomPietyTooltipHT.capacity";"{section_header}Капацитет:{/section_header} {max_piety}{piety_icon}"
